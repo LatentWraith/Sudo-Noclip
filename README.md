@@ -1,6 +1,6 @@
 # Sudo-Noclip
 
-Sudo-Noclip is a 3D, backrooms-style horror game that runs in the terminal.
+Sudo-Noclip is a 3D, backrooms-style horror game that runs entirely in the terminal.
 
 ![00](media/00.png)
 
